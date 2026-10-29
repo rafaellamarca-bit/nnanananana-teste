@@ -2,4 +2,4 @@ pessoa
 cabelo loiro
 pé
 corpo
-cabeça
+cabeças	JNWD	DD	PI	JDPO	
